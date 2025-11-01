@@ -1,5 +1,5 @@
 # AzurePEAS-USGOV
-CarlosPolop's AzurePEASS for US Government cloud version 
+CarlosPolop's AzurePEAS for US Government cloud version 
 
 OG version: https://github.com/carlospolop/CloudPEASS/blob/main/AzurePEAS.py
 
