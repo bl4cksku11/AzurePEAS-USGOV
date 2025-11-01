@@ -1,0 +1,9 @@
+msal
+requests
+google-auth
+google-api-python-client
+tqdm
+colorama
+PyJWT
+boto3
+tiktoken
